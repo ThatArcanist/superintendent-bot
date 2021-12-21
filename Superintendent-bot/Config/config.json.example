@@ -1,0 +1,8 @@
+﻿{
+  "token": "token",
+  "channels": [],
+  "supportedExtensions": [
+    { ".pbo": "path to pbos" },
+    { ".sqf": "path to sqfs" }
+  ]
+}
